@@ -4,6 +4,7 @@
 **Institución:** Universidad Autónoma de Occidente (UAO)  
 **Profesor:** Nicolas Llanos Neuta  
 **Semestre:** 2026-1
+**Integrantes:** Sebastián Giraldo, Luis Murillo, David Vergara
 
 ---
 
